@@ -1,10 +1,3 @@
-
-###  DATE: 23-09-24
-
-###  NAME: VARSHA A
-###  ROLL NO : 212223220121
-###  DEPARTMENT: Information Technology
-
 # EXPERIMENT--04-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool, Serial port utility tool 
